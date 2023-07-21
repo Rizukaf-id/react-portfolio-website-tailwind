@@ -53,7 +53,7 @@ const Projects = () => {
               <p className=" text-white mt-1">{project.description}</p>
               <div className="mt-5">
                 <button className="btn transition-all duration-500 bg-primary py-2 px-6 rounded text-white hover:bg-white hover:text-primary">
-                  About me
+                  Github
                 </button>
                 <button className="btn outline py-1.5 px-9 rounded border-none ml-5 text-white ">
                   Projects
